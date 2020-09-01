@@ -3,3 +3,7 @@ Kafka On The Shore by Haruki Murakami
 FIRST QUOTE
 
 	“Listen up - there's no war that will end all wars.”
+
+SECOND QUOTE
+
+	“Most things are forgotten over time. Even the war itself, the life-and-death struggle people went through is now like something from the distant past. We’re so caught up in our everyday lives that events of the past are no longer in orbit around our minds. There are just too many things we have to think about everyday, too many new things we have to learn. But still, no matter how much time passes, no matter what takes place in the interim, there are some things we can never assign to oblivion, memories we can never rub away. They remain with us forever, like a touchstone.”
