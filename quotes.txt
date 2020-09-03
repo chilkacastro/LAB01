@@ -12,5 +12,5 @@ THIRD QUOTE
 	"Time weighs down on you like an old, ambiguous dream. You keep on moving, trying to sleep through it. But even if you go to the ends of the earth, you won't be able to escape it. Still, you have to go there- to the edge of the world. There's something you can't do unless you get there."
 
 FOURTH QUOTE
-	"If yof only read the books that everyone else is reading, you can only think what everyone else is thinking."
+	"If you only read the books that everyone else is reading, you can only think what everyone else is thinking."
 
